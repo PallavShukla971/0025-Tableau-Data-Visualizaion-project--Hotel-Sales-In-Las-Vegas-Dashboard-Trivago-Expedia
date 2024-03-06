@@ -1,8 +1,6 @@
 # 0025-Tableau-Data-Visualizaion-project--Hotel-Sales-In-Las-Vegas-Dashboard-Trivago-Expedia
-
-
 Hey Everyone please feel free to use this visualization, for sheet please message me on LinkedIn will be able to provide the source code as well
-
+# Project can be made VISIBLE on a ZOOM CALL
 https://public.tableau.com/app/profile/pallav.shukla
 
 please check the dashboard from the above link
